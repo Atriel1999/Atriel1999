@@ -1,16 +1,25 @@
-### Hi there 👋
 
-<!--
-**Atriel1999/Atriel1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&&height=170&section=header&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=100)
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <h3 align="center"> 🤗 도약 </h3>
+<p align="center">
+호원대학교 IT소프트웨어보안과 18학번 입학 🌱 <br> Class of 23 Howon University and Major is IT software Security
+<br> 군대에 다녀온뒤 현재 4학년 재학 중 ✨ <br> After discharge Miltary, enrolled in Senior
+</p>
+  
+### 
+
+
+
+</br></br>
+
+
+####           📚 Technology Stack 📚
+<div>
+
+
+<p align="center">
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&link=https://www.python.org/"/></a>  <a href="https://en.wikipedia.org/wiki/C"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white&link=https://en.wikipedia.org/wiki/C"/></a>  <a href="https://en.wikipedia.org/wiki/C++"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white&link=https://en.wikipedia.org/wiki/C++"/></a>  <a href="https://www.java.com"><img src="https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=Java&logoColor=white&link=https://www.java.com"/></a>  <a href="https://developer.android.com/studio"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white&link=https://developer.android.com/studio"/></a>  <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white&link=https://www.mysql.com"/></a>
+</p>

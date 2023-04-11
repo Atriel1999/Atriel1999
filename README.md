@@ -5,8 +5,8 @@
 
  <h3 align="center"> 🤗 도약 </h3>
 <p align="center">
-호원대학교 IT소프트웨어보안과 18학번 입학 🌱 <br> Class of 23 Howon University and Major is IT software Security
-<br> 군대에 다녀온뒤 현재 4학년 재학 중 ✨ <br> After discharge Miltary, enrolled in Senior
+**호원대학교 IT소프트웨어보안과 18학번 입학** 🌱 <br> Class of 23 Howon University and Major is IT software Security
+<br> **군대에 다녀온뒤 현재 4학년 재학 중** ✨ <br> After discharge Miltary, enrolled in Senior
 </p>
   
 ### 
@@ -16,7 +16,7 @@
 </br></br>
 
 
-####           📚 Technology Stack 📚
+#### ** 📚 Technology Stack 📚 **
 <div>
 
 

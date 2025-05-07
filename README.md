@@ -9,6 +9,12 @@
 </p>
   
 ### 
+<br>
+<!-- 블로그 -->
+<h4>📝 Blog</h4>
+<p align="center">
+<a href="https://atriel.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white&link=https://atriel.tistory.com/"/></a>
+</p>
 
 </br></br>
 

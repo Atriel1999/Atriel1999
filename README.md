@@ -64,10 +64,10 @@
 <!-- 보안 -->
 <h4>🔒 Security</h4>
 <p align="center">
-<img src="https://img.shields.io/badge/Encase-005571?style=for-the-badge&logo=encase&logoColor=white">
-<img src="https://img.shields.io/badge/Fiddler-8A2BE2?style=for-the-badge&logo=fiddler&logoColor=white">
-<img src="https://img.shields.io/badge/Immunity%20Debugger-4B275F?style=for-the-badge&logo=immunity&logoColor=white">
-<img src="https://img.shields.io/badge/OllyDbg-00599C?style=for-the-badge&logo=ollydbg&logoColor=white">
+<img src="https://img.shields.io/badge/Encase-2C2D72?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Fiddler-8A2BE2?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Immunity%20Debugger-4B275F?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/OllyDbg-00599C?style=for-the-badge&logoColor=white">
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
 </p>
 </div>

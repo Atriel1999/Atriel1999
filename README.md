@@ -12,7 +12,7 @@
 <a href="https://atriel.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white&link=https://atriel.tistory.com/"/></a>
 </p>
 </br></br>
-### 📚 Technology Stack 📚
+<h2 align="center"> 📚 Technology Stack 📚 <h2>
 <!-- 프로그래밍 언어 -->
 <h4>💻 Programming Languages</h4>
 <p align="center">

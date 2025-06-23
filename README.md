@@ -2,7 +2,6 @@
  <h3 align="center"> 🤗 도약 </h3>
 <p align="center">
  호원대학교 IT소프트웨어보안과 18학번 입학 🌱 <br> Class of 24 Howon University and Major is IT software Security
-<br> 현재 대학 졸업 완료 2023.6 ✨ <br> Now, Graduate College in 2023.6
 </p>
 
 <br>

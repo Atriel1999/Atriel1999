@@ -2,7 +2,7 @@
  <h3 align="center"> 🤗 도약 </h3>
 <p align="center">
  호원대학교 IT소프트웨어보안과 18학번 입학 🌱 <br> Class of 24 Howon University and Major is IT software Security
- <br> Java 웹 개발 공부중
+ <br> Java 웹 백엔드 개발 공부중
 </p>
 
 <br>
